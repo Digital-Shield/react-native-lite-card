@@ -3,7 +3,7 @@
 //  Electron-Cash
 //
 //  Created by xiaoliang on 2020/9/28.
-//  Copyright © 2020 OneKey. All rights reserved..
+//  Copyright © 2020 DigitalShield. All rights reserved..
 //
 
 #import "NSString+OKAdd.h"

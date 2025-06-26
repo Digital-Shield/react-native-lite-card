@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "11.0" }
-  s.source       = { :git => "https://github.com/OneKeyHQ/react-native-lite-card.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Digital-Shield/react-native-lite-card.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/Classes/**/*", "keys/**/*"
   s.vendored_framework = "ios/GPChannelSDKCore.framework"

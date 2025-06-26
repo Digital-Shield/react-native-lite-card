@@ -1,6 +1,6 @@
 //
 //  RNEventManager.h
-//  OneKeyWallet
+//  DigitalShieldWallet
 //
 //  Created by linleiqin on 2021/11/8.
 //

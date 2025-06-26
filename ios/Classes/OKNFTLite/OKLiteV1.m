@@ -1,6 +1,6 @@
 //
 //  OKLiteV1.m
-//  OneKeyWallet
+//  DigitalShieldWallet
 //
 //  Created by linleiqin on 2023/6/27.
 //
@@ -543,7 +543,7 @@
       return;
     }
     if (weakSelf.version == OKNFCLiteVersionV1) {
-      /// https://onekeyhq.atlassian.net/wiki/spaces/ONEKEY/pages/10551684/Lite
+      /// https://digitalshieldhq.atlassian.net/wiki/spaces/DIGITalShIELD/pages/10551684/Lite
       mnc = responseData.toHexString;
     } else {
       mnc = parseRespon;

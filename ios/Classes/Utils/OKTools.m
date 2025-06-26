@@ -1,6 +1,6 @@
 //
 //  OKTools.m
-//  OneKeyWallet
+//  DigitalShieldWallet
 //
 //  Created by linleiqin on 2022/3/1.
 //

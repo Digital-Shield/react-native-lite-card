@@ -1,9 +1,9 @@
 //
 //  NSData+StringToData.h
-//  OneKey
+//  DigitalShield
 //
 //  Created by xiaoliang on 2020/11/17.
-//  Copyright © 2020 OneKey. All rights reserved..
+//  Copyright © 2020 DigitalShield. All rights reserved..
 //
 #import <Foundation/Foundation.h>
 

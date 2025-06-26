@@ -14,7 +14,7 @@ export type NfcConnectUiState = {
   message: string;
 };
 
-class OnekeyLite {
+class DigitalshieldLite {
   UiEventEmitter: NativeEventEmitter | null = null;
 
   constructor() {
@@ -99,5 +99,5 @@ class OnekeyLite {
   }
 }
 
-const onekeyLite = new OnekeyLite();
-export default onekeyLite;
+const digitalshieldLite = new DigitalshieldLite();
+export default digitalshieldLite;
